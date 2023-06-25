@@ -1,0 +1,4 @@
+validation_id,detail_id,validation_status,validation_date,supporting_evidence,validation_notes
+1,1,Validated,2023-06-27,"CCTV footage shows a tall person matching the description","No discrepancies found"
+2,2,Not Validated,2023-06-28,"No additional evidence available","Witness credibility questioned"
+3,3,Validated,2023-06-29,"Subsequent investigation revealed money laundering connections","Consistent with other findings"
