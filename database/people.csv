@@ -6,6 +6,10 @@
 # "Nationality" (String): Nationality of the person.
 # "Gender" (String): Gender of the person (Male/Female).
 # "Additional Features" (String): Additional features relevant to the psychological profile of the person.
+# "Race" (String): 
+# "Occupation" (String): 
+# "Area of Expertise" (String): 
+#
 #
 "Person ID","Name","Age","Education Level","Age at Disclosure","Nationality","Gender","Additional Features","Race","Occupation","Area of Expertise"
 1,"Bob Lazar",40,"Bachelor's Degree",30,"United States","Male","Former Area 51 employee and whistleblower on alleged UFO reverse engineering","","Former Area 51 employee","UFO reverse engineering"
@@ -98,3 +102,30 @@
 88,"Dr. Seth Shostak",78,"Doctorate Degree",55,"United States","Male","Astronomer and senior astronomer at the SETI Institute involved in the search for extraterrestrial intelligence","","Astronomer and senior astronomer","Search for extraterrestrial intelligence"
 89,"Dr. Neil deGrasse Tyson",64,"Doctorate Degree",45,"United States","Male","Astrophysicist and science communicator known for his skepticism toward UFO claims and popularizing science","","Astrophysicist and science communicator","Skepticism toward UFO claims and popularizing science"
 90,"Jaime Maussan",68,"Not specified",50,"Mexico","Male","Mexican journalist and ufologist known for his investigations and presentations on UFOs in Latin America","","Mexican journalist and ufologist","Investigations and presentations on UFOs in Latin America"
+91,"Kenneth Arnold","","High School Diploma","","","","","","Private Pilot","Aeronautics"
+92,"Thomas F. Mantell Jr.","30s","Bachelor's Degree","","","","","","Captain","U.S. Air Force"
+93,"Lieutenant George Gorman","","High School Diploma","","","","","","Fighter Pilot","Aerospace"
+94,"Captain Edward J. Ruppelt","30s-40s","Bachelor's Degree","","","","","","U.S. Air Force Officer","UFO Investigations"
+95,"Major Donald Keyhoe","40s-50s","Bachelor's Degree","","","","","","Marine Corps Officer","UFO Research"
+96,"Colonel Charles Halt","40s-50s","Bachelor's Degree","","","","","","U.S. Air Force Officer","Military UFO Investigations"
+97,"Lieutenant Colonel Charles Brown","40s-50s","Bachelor's Degree","","","","","","U.S. Air Force Officer","Aerospace"
+98,"Lieutenant Colonel Larry Jividen","40s-50s","Bachelor's Degree","","","","","","U.S. Air Force Officer","Aviation"
+99,"Lieutenant Colonel Richard French","30s-40s","Bachelor's Degree","","","","","","U.S. Air Force Officer","Nuclear Weapons"
+100,"Sergeant James W. Penniston","","High School Diploma","","","","","","U.S. Air Force Security Officer","UFO Encounters"
+101,"Colonel William T. Coleman","50s-60s","Bachelor's Degree","","","","","","Former U.S. Air Force Spokesperson","UFO Disclosure"
+102,"Major George Filer III","","Bachelor's Degree","","","","","","Former U.S. Air Force Intelligence Officer","UFO Reporting"
+103,"Captain Robert Salas","30s-40s","Bachelor's Degree","","","","","","Former U.S. Air Force Officer","Nuclear Missile Incidents"
+104,"Colonel Ariel Sánchez Ríos","30s-40s","Bachelor's Degree","","","","","","Former Peruvian Air Force Pilot","Aviation"
+105,"Lieutenant Colonel Frederick Fox","30s-40s","Bachelor's Degree","","","","","","Former Canadian Armed Forces Pilot","Aerospace"
+106,"Captain Thomas Mantell","","High School Diploma","","","","","","Former U.S. Air Force Pilot","UFO Pursuit"
+107,"Sergeant Clifford Stone","","High School Diploma","","","","","","Former U.S. Army Sergeant","UFO Crash Retrieval"
+108,"Colonel Charles Halt","40s-50s","Bachelor's Degree","","","","","","Former U.S. Air Force Officer","UFO Incident Investigation"
+109,"Major Jesse Marcel Jr.","40s-50s","Bachelor's Degree","","","","","","Former U.S. Air Force Officer","UFO Crash Retrieval"
+110,"Lieutenant Colonel Philip J. Corso","60s-70s","Bachelor's Degree","","","","","","Former U.S. Army Officer","Extraterrestrial Technology"
+111,"Sergeant Jim Penniston","","High School Diploma","","","","","","Former U.S. Air Force Security Officer","UFO Close Encounter"
+112,"Commander David Fravor","30s-40s","Bachelor's Degree","","","","","","Former U.S. Navy Pilot","Aerospace"
+113,"Major General Vasily Alexeyevich Alexeyev","50s-60s","Bachelor's Degree","","","","","","Former Soviet Air Defense Forces Officer","UFO Investigation"
+114,"Colonel L. Gordon Cooper Jr.","40s-50s","Bachelor's Degree","","","","","","Former U.S. Air Force Astronaut","UFO Sightings"
+115,"Captain Edgar Mitchell","40s-50s","Doctorate","","","","","","Former U.S. Navy Officer and Astronaut","Extraterrestrial Life"
+116,"Lieutenant Colonel Oscar Santa Maria Huerta","30s-40s","Bachelor's Degree","","","","","","Former Peruvian Air Force Pilot","Aerospace"
+117,"Captain Ray Bowyer","","","","","","","","British Airways Pilot","Aviation"
