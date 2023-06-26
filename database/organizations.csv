@@ -1,0 +1,13 @@
+# "Organization ID" (Integer): Unique identifier for the organization.
+# "Name" (String): Name of the organization.
+# "Description" (String): Description of the organization.
+# "Type" (String): Type of organization (Government, Commercial, or Both).
+# "Ownership" (String): Ownership status of the organization (Publicly Traded, Privately Owned).
+# "Executives" (String): Names of executives associated with the organization.
+# "Leaders" (String): Names of leaders associated with the organization.
+# "Founding Date" (String): Date of the organization's founding.
+# "Gross Revenue" (String): Estimated annual revenue of the organization.
+
+"Organization ID","Name","Description","Type","Ownership","Executives","Leaders","Founding Date","Gross Revenue"
+1,"CIA","Central Intelligence Agency","Government",N/A,"John Doe, Jane Smith","Mark Johnson, Emily Brown","1947",N/A
+2,"Lockheed Martin","Aerospace and defense company","Commercial","Publicly Traded","Tom Delonge, Jim Semivan","Tom Cruise, John Smith","1995","$53 billion (estimated)"

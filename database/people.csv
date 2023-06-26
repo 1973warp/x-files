@@ -1,0 +1,10 @@
+# "Person ID" (Integer): Unique identifier for the person.
+# "Name" (String): Full name of the person.
+# "Age" (Integer): Age of the person at the time of the recording of the encounter.
+# "Education Level" (String): Level of education attained by the person.
+# "Age at Disclosure" (Integer): Age when the person was involved in disclosing the encounter to the public.
+# "Nationality" (String): Nationality of the person.
+# "Gender" (String): Gender of the person (Male/Female).
+# "Additional Features" (String): Additional features relevant to the psychological profile of the person.
+
+"Person ID","Name","Age","Education Level","Age at Disclosure","Nationality","Gender","Additional Features"

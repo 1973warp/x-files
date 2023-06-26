@@ -1,0 +1,15 @@
+# "Event ID" (Integer): Unique identifier for the event.
+# "Event Name" (String): Name or title of the event.
+# "Description" (String): Brief description of the event.
+# "Date" (String): Date of the event.
+# "Time of Day" (String): Time of day when the event occurred.
+# "Weather" (String): Weather conditions during the event.
+# "Location Latitude" (Float): Latitude coordinate of the event location.
+# "Location Longitude" (Float): Longitude coordinate of the event location.
+# "People IDs" (String): Comma-separated list of Person IDs associated with the event.
+# "Claims IDs" (String): Comma-separated list of Claim IDs associated with the event.
+# "Evidence IDs" (String): Comma-separated list of Evidence IDs associated with the event.
+
+"Event ID","Event Name","Description","Date","Time of Day","Weather","Location Latitude","Location Longitude","People IDs","Claims IDs","Evidence IDs"
+1,"Nimitz Encounter","Encounter with unidentified aerial objects by USS Nimitz personnel","2004-11-14","Afternoon","Clear sky",32.871944,-117.220278,"1,2,3","1,2,3","1,2,3"
+2,"Phoenix Lights","Sighting of a V-shaped formation of lights in Phoenix, Arizona","1997-03-13","Evening","Clear sky",33.4484,-112.0740,"1,4,5","4,5,6","4,5,6"

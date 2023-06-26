@@ -1,0 +1,11 @@
+# "Claim ID" (Integer): Unique identifier for the claim.
+# "Event ID" (Integer): Identifier of the associated event.
+# "Description" (String): Description of the claim.
+# "Time of Day" (String): Time of day when the claim was made.
+# "Weather" (String): Weather conditions at the time of the claim.
+# "Location Latitude" (Float): Latitude coordinate of the location associated with the claim.
+# "Location Longitude" (Float): Longitude coordinate of the location associated with the claim.
+
+"Claim ID","Event ID","Description","Time of Day","Weather","Location Latitude","Location Longitude"
+1,1,"Multiple Navy pilots witnessed unidentified flying objects performing advanced maneuvers.","Morning","Clear sky",32.871944,-117.220278
+2,1,"Objects were observed on radar and visually confirmed by pilots.","Morning","Clear sky",32.871944,-117.220278

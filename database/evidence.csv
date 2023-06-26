@@ -1,1 +1,8 @@
-evidence_id,hypothesis_id,evidence_type,description,date_collected
+# "Evidence ID" (Integer): Unique identifier for the evidence.
+# "Claim ID" (Integer): Identifier of the associated claim.
+# "Category" (String): Category of the evidence (e.g., Sensor Data, Video, Photo).
+# "Description" (String): Description or details of the evidence.
+
+"Evidence ID","Claim ID","Category","Description"
+1,1,"Sensor Data","Radar data captured by USS Princeton showing unidentified objects moving at high speeds."
+2,1,"Video","Infrared video footage from Navy aircraft showing the objects flying in a manner inconsistent with known aircraft."
