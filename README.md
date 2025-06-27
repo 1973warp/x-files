@@ -13,6 +13,8 @@ Steps to analyze the authenticity of UFO sightings using an analytical investiga
 9. Gradually eliminate explanations based on evidence, applying Occam's Razor principle.
 10. Engage in peer review and collaboration with other investigators and experts
 
+
+
 ## Most Credible Events
 
 | Incident                           | Description                                                                                                                                       | Location                          | Time              | Evidence                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                         |
